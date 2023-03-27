@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 0.3rem;
+}
+img {
+  vertical-align: middle;
+}
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.icon {
+  width: 0.66rem;
+  height: 0.66rem;
+  vertical-align: text-top;
+  fill: currentColor;
+  overflow: hidden;
+}
